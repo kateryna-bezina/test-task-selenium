@@ -1,0 +1,7 @@
+<suite name="UI Regression Suite">
+    <test name="Checkout Flow Tests">
+        <packages>
+            <package name="tests.checkout"/>
+        </packages>
+    </test>
+</suite>
